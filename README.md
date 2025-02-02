@@ -2,13 +2,16 @@
 # CropGuard
 <img width="1280" alt="readme-banner" src="https://github.com/nami-02/CropGuard/blob/master/cropguard.jpg">
 
+### VIDEO
+https://youtu.be/fTCbzDk19xk
+
 ## Basic Details
 ### Team Name: Optimus Prime
 
 ### Team Members
 - Member 1: Joanne Alice Thomas - Muthoot Institute of Technology and Science
 - Member 2: Namitha Elizabeth John -  Muthoot Institute of Technology and Science
-- 
+  
 ### Hosted Project Link
 https://github.com/nami-02/CropGuard
 
