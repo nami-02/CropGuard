@@ -2,7 +2,7 @@ import requests
 from googletrans import Translator  # To handle translation
 
 # Your API key directly in the code
-GROQ_API_KEY = "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"  # Replace with your actual API key
+GROQ_API_KEY = "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"  # Replace with your actual API key
 
 # Initialize the Translator for Google Translate API
 translator = Translator()
